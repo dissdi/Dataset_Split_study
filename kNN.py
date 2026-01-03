@@ -13,7 +13,7 @@ X = iris.data
 Y = iris.target
 
 N = 30      # number of holdout iter
-RN = 10     # number of repeated ter
+RN = 10     # number of repeated iter
 B = 200     # number of bootstrap iter
 
 
